@@ -25,7 +25,7 @@ BLoC processes business logic.
 States reflect UI updates (loading, success, error).
 
 <div style="text-align: center;">
-  <img src="assets/Screenshots/DetailsPage.jpeg" width="250">
-  <img src="assets/Screenshots/HomePage.jpeg" width="250">
-  <img src="assets/Screenshots/SplashScreenPage.jpeg" width="250">
+  <img src="assets/images/Screenshots/DetailsPage.jpeg" width="250">
+  <img src="assets/images/Screenshots/HomePage.jpeg" width="250">
+  <img src="assets/images/Screenshots/SplashScreenPage.jpeg" width="250">
 </div>
